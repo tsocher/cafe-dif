@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/cafe-dif/static/js/main.e35f2a55.chunk.js",
+    "main.js.map": "/cafe-dif/static/js/main.e35f2a55.chunk.js.map",
+    "runtime-main.js": "/cafe-dif/static/js/runtime-main.26e044af.js",
+    "runtime-main.js.map": "/cafe-dif/static/js/runtime-main.26e044af.js.map",
+    "static/js/2.8a649cc7.chunk.js": "/cafe-dif/static/js/2.8a649cc7.chunk.js",
+    "static/js/2.8a649cc7.chunk.js.map": "/cafe-dif/static/js/2.8a649cc7.chunk.js.map",
+    "index.html": "/cafe-dif/index.html",
+    "precache-manifest.d28f115b900ad9cc8e45491440f5eae2.js": "/cafe-dif/precache-manifest.d28f115b900ad9cc8e45491440f5eae2.js",
+    "service-worker.js": "/cafe-dif/service-worker.js",
+    "static/media/melitta1.png": "/cafe-dif/static/media/melitta1.8f53a40f.png",
+    "static/media/melitta2.png": "/cafe-dif/static/media/melitta2.9efa0305.png"
+  }
+}
